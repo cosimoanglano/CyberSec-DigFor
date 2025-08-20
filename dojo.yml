@@ -1,0 +1,13 @@
+  id: welcome
+
+  name: Inizia qui
+
+  type: welcome
+
+  award:
+    belt: white
+
+  modules:
+    - id: hello
+    - id: world
+    - id: demo
